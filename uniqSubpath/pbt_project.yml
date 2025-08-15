@@ -39,6 +39,21 @@ sqlModels:
       sources: []
       snapshots: []
     createdAt: '2025-08-15 20:28:32'
+  .prophecy/metadata/sqlmodels/model2:
+    name: model2
+    schema: null
+    description: ''
+    author: xpxywwrh.xtl1mvoo@kw6tobg1.com
+    files:
+    - models/model2.sql
+    - .prophecy/ide/models/model2.json
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2025-08-15 20:28:38'
 sqlSnapshots: {}
 sqlTests: {}
 sqlMacros: {}
