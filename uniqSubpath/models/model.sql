@@ -1,1 +1,1 @@
-SELECT uid FROM model;
+SELECT uid,column1 FROM model;
