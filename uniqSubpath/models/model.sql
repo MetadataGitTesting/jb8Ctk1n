@@ -1,1 +1,1 @@
-SELECT * FROM model;
+SELECT uid FROM model;
